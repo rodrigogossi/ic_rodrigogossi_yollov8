@@ -1,6 +1,0 @@
-path: /content/dataset_kfold/fold_5
-train: train/images
-val: val/images
-names:
-  0: escala
-  1: fungo
