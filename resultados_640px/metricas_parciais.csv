@@ -1,0 +1,16 @@
+split,repeticao,fold,mAP50,mAP50-95,Precision,Recall
+rep1_fold1,rep1,fold1,0.9934,0.9055,0.9886,0.9902
+rep1_fold2,rep1,fold2,0.995,0.9232,0.9982,1.0
+rep1_fold3,rep1,fold3,0.9944,0.9285,0.985,0.994
+rep1_fold4,rep1,fold4,0.995,0.9126,0.9937,0.9975
+rep1_fold5,rep1,fold5,0.995,0.9236,0.997,0.9995
+rep2_fold1,rep2,fold1,0.9947,0.9158,0.9942,0.9937
+rep2_fold2,rep2,fold2,0.9916,0.9175,0.9888,0.9908
+rep2_fold3,rep2,fold3,0.995,0.9157,0.9984,1.0
+rep2_fold4,rep2,fold4,0.995,0.9169,0.9983,0.9954
+rep2_fold5,rep2,fold5,0.9936,0.923,0.9887,0.9954
+rep3_fold1,rep3,fold1,0.9946,0.9206,0.9933,1.0
+rep3_fold2,rep3,fold2,0.995,0.9038,0.9979,0.995
+rep3_fold3,rep3,fold3,0.995,0.9227,0.997,1.0
+rep3_fold4,rep3,fold4,0.995,0.9206,0.9979,0.9954
+rep3_fold5,rep3,fold5,0.991,0.9201,0.9832,0.9862
