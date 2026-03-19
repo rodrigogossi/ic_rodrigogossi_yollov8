@@ -1,0 +1,2 @@
+N_amostras,R2,R2_IC_low,R2_IC_high,RMSE_mm2,RMSE_IC_low,RMSE_IC_high,MAE_mm2,MAPE_pct,MAPE_IC_low,MAPE_IC_high,Pearson_r,Pearson_p,BlandAltman_bias,BlandAltman_LoA_sup,BlandAltman_LoA_inf,Modelo,IMGSZ,CONF
+542,0.9984,0.9979,0.9988,60.45,52.06,68.75,32.93,5.78,5.11,6.57,0.9992,0.00e+00,5.47,123.57,-112.63,/content/drive/MyDrive/ic-yollov8/resultados_1024px_2026-03-18/runs/rep1_fold3/weights/best.pt,640,0.2
